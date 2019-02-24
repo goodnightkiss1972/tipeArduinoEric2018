@@ -1,0 +1,11 @@
+javascript (?)
+
+https://www.hackster.io/bltrobotics/example-piezo-vibration-sensor-bc082b
+
+Multiple
+
+https://software.intel.com/en-us/iot/hardware/sensors/piezo-vibration-sensor
+meme chose que le précédent sous github
+https://github.com/intel-iot-devkit/upm/commit/c5369315e95896dbfd6f169123c5d65302cb6f27
+
+
